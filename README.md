@@ -21,7 +21,8 @@ https://docs.microsoft.com/ko-kr/xamarin/xamarin-forms/data-cloud/azure-cognitiv
 
 ## 개발 내용
 ### 1. 회원가입과 로그인
-
+![11](https://user-images.githubusercontent.com/60181129/99414978-b36c6700-293a-11eb-9b70-e0b7264985ab.jpg)
+![1](https://user-images.githubusercontent.com/60181129/99414946-ad768600-293a-11eb-9d3e-c8352817a74d.jpg)
 ### 2. 사진 촬영
 카메라 사용 권한 동의 및 카메라 연동
 
