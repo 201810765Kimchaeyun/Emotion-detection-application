@@ -10,6 +10,11 @@
 * 김채윤, 이현서, 유세빈
 
 ## 개발 환경
-* Android Studio
-* JAVA
+* 개발 툴 : Android Studio
+* 데이터베이스 : Firebase
+* 개발 언어: JAVA
+* API : MicroSoft emotion-recognition 사용
+https://docs.microsoft.com/ko-kr/xamarin/xamarin-forms/data-cloud/azure-cognitive-services/emotion-recognition
+
+
 
