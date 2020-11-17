@@ -14,23 +14,23 @@
 * 개발 툴 : Android Studio
 * 데이터베이스 : Firebase
 * 개발 언어: JAVA
-* API : MicroSoft emotion-recognition 사용
+* API : MicroSoft에서 제공하는 emotion-recognition 사용. 이를 사용하기 위해서 azure 구독 키 발급.
 
 https://docs.microsoft.com/ko-kr/xamarin/xamarin-forms/data-cloud/azure-cognitive-services/emotion-recognition
 
 
 ## 개발 내용
 ### 1. 회원가입과 로그인
+
 ### 2. 사진 촬영
+카메라 사용 권한 동의 및 카메라 연동
+
 ### 3. 감정인식 및 감정 선택
-### 4. 채팅방 선택 or 개설
-### 5. 익명 채팅
-### 6. 
-### 2. 카메라 사용 권한 동의 및 카메라 연동
-### 3. 촬영된 사진의 얼굴 감정인식 후 4개의 감정(기쁨, 슬픔, 화남, 두려움) 중 상위 2개 감정 출력
-### 
+촬영된 얼굴 사진의 감정인식 후 4개의 감정(기쁨, 슬픔, 화남, 두려움) 중 상위 2개 감정 출력 후 감정 선택
+
+### 4. 채팅방 선택 or 개설 후 채팅
+채팅방을 개설하여 익명의 사람들과 채팅을 통한 감정을 공유
+
  
 ## 현재
-- azure
-사진 촬영하여  4가지 감정(기쁨, 슬픔, 화남, 두려움) 중 상위 2순위  후, 채팅방을 개설하여 익명의 사람들과 감정을 공유
-* 회원가입, 로그인 후 이용 가능
+* azure 체험판 구독키 기간 만료로 새로운 구독 키 발급 필요
