@@ -14,6 +14,7 @@
 * 데이터베이스 : Firebase
 * 개발 언어: JAVA
 * API : MicroSoft emotion-recognition 사용
+
 https://docs.microsoft.com/ko-kr/xamarin/xamarin-forms/data-cloud/azure-cognitive-services/emotion-recognition
 
 
