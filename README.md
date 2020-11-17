@@ -29,7 +29,7 @@ https://docs.microsoft.com/ko-kr/xamarin/xamarin-forms/data-cloud/azure-cognitiv
 </p>
 
 * 회원가입 시 입력된 정보 DB에 저장됨
-<img src="https://user-images.githubusercontent.com/60181129/99415609-53c28b80-293b-11eb-8fb1-285e78421dd5.JPG"  width="30%" height="10%"/>
+<img src="https://user-images.githubusercontent.com/60181129/99415609-53c28b80-293b-11eb-8fb1-285e78421dd5.JPG" >
 
 
 ### 2. 사진 촬영
