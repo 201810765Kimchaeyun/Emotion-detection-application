@@ -24,14 +24,12 @@ https://docs.microsoft.com/ko-kr/xamarin/xamarin-forms/data-cloud/azure-cognitiv
 <p>
  <img src="https://user-images.githubusercontent.com/60181129/99414946-ad768600-293a-11eb-9d3e-c8352817a74d.jpg"  width="30%" height="30%"/>
  <img src="https://user-images.githubusercontent.com/60181129/99414978-b36c6700-293a-11eb-9b70-e0b7264985ab.jpg"  width="30%" height="30%"/>
-
- <img src=""  width="30%" height="30%"/>
- 
+ <img src="https://user-images.githubusercontent.com/60181129/99414955-aea7b300-293a-11eb-8443-d9db3442dad3.jpg"  width="30%" height="30%"/>
 </p>
 
 ### 2. 사진 촬영
 카메라 사용 권한 동의 및 카메라 연동
-
+<img src=""  width="30%" height="30%"/>
 
 ### 3. 감정인식 및 감정 선택
 촬영된 얼굴 사진의 감정인식 후 4개의 감정(기쁨, 슬픔, 화남, 두려움) 중 상위 2개 감정 출력 후 감정 선택
@@ -42,3 +40,4 @@ https://docs.microsoft.com/ko-kr/xamarin/xamarin-forms/data-cloud/azure-cognitiv
  
 ## 현재
 * azure 체험판 구독키 기간 만료로 새로운 구독 키 발급 필요
+<img src=""  width="30%" height="30%"/>
