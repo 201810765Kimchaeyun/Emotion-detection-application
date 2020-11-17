@@ -22,9 +22,9 @@ https://docs.microsoft.com/ko-kr/xamarin/xamarin-forms/data-cloud/azure-cognitiv
 ## 개발 내용
 ### 1. 회원가입과 로그인
 <p>
- <img src="https://user-images.githubusercontent.com/60181129/99414946-ad768600-293a-11eb-9d3e-c8352817a74d.jpg"  width="30%" height="20%"/>
- <img src="https://user-images.githubusercontent.com/60181129/99414978-b36c6700-293a-11eb-9b70-e0b7264985ab.jpg"  width="30%" height="20%"/>
- <img src="https://user-images.githubusercontent.com/60181129/99414955-aea7b300-293a-11eb-8443-d9db3442dad3.jpg"  width="30%" height="20%"/>
+ <img src="https://user-images.githubusercontent.com/60181129/99414946-ad768600-293a-11eb-9d3e-c8352817a74d.jpg"  width="30%" height="10%"/>
+ <img src="https://user-images.githubusercontent.com/60181129/99414978-b36c6700-293a-11eb-9b70-e0b7264985ab.jpg"  width="30%" height="10%"/>
+ <img src="https://user-images.githubusercontent.com/60181129/99414955-aea7b300-293a-11eb-8443-d9db3442dad3.jpg"  width="30%" height="10%"/>
 </p>
 
 ### 2. 사진 촬영
