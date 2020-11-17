@@ -29,7 +29,12 @@ https://docs.microsoft.com/ko-kr/xamarin/xamarin-forms/data-cloud/azure-cognitiv
 
 ### 2. 사진 촬영
 카메라 사용 권한 동의 및 카메라 연동
-<img src=""  width="30%" height="30%"/>
+
+<p>
+ <img src="https://user-images.githubusercontent.com/60181129/99414959-b0717680-293a-11eb-9214-86dfaf9ee61e.jpg"  width="30%" height="30%"/>
+ <img src="https://user-images.githubusercontent.com/60181129/99414964-b0717680-293a-11eb-80e4-9da0119b7056.jpg"  width="30%" height="30%"/>
+ <img src="https://user-images.githubusercontent.com/60181129/99414965-b10a0d00-293a-11eb-9ae6-e4034b6e0bed.jpg"  width="30%" height="30%"/>
+</p>
 
 ### 3. 감정인식 및 감정 선택
 촬영된 얼굴 사진의 감정인식 후 4개의 감정(기쁨, 슬픔, 화남, 두려움) 중 상위 2개 감정 출력 후 감정 선택
