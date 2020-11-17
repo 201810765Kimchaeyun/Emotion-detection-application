@@ -52,8 +52,6 @@ https://docs.microsoft.com/ko-kr/xamarin/xamarin-forms/data-cloud/azure-cognitiv
  <img src="https://user-images.githubusercontent.com/60181129/99415589-4efdd780-293b-11eb-896c-a8b3289c6521.jpg"  width="30%" height="10%"/>
  <img src="https://user-images.githubusercontent.com/60181129/99415594-502f0480-293b-11eb-8519-bc973d351a59.jpg"  width="30%" height="10%"/>
 </p>
-
  
-## 현재
+## 현재(2020/11)
 * azure 체험판 구독키 기간 만료로 새로운 구독 키 발급 필요
-<img src=""  width="30%" height="10%"/>
