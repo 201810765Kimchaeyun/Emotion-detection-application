@@ -51,9 +51,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         
-        //IMPORTANT!!------------------------------------------------------------------------------
-        //Replace the below tags <> with your own endpoint and API Subscription Key.
-        //For help with this, read the project's README file.
         faceServiceClient = new FaceServiceRestClient("https://koreacentral.api.cognitive.microsoft.com/face/v1.0", "e2cc15ccb45f4a10b2569b6cd78e2532");
 
         takePicture = findViewById(R.id.takePic);
@@ -112,7 +109,6 @@ public class MainActivity extends AppCompatActivity {
             protected Face[] doInBackground(InputStream... inputStreams) {
 
                 publishProgress("Detecting...");
-                //This is where you specify the FaceAttributes to detect. You can change this for your own use.
                 FaceServiceClient.FaceAttributeType[] faceAttr = new FaceServiceClient.FaceAttributeType[]{
                         FaceServiceClient.FaceAttributeType.HeadPose,
                         FaceServiceClient.FaceAttributeType.Age,
